@@ -20,7 +20,3 @@ Notes:
 ![Spring Office Hours](images/spring-office-hours-blank.png)
 
 ### SpringOfficeHours.io
-
----
-
-## https://spring.academy
