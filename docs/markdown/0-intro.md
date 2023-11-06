@@ -13,7 +13,13 @@ Notes:
 
 ---
 
-- @dashaun on (YouTube|Twitter|GitHub|GitLab|LinkedIn)
+### @dashaun on:
+
+- [YouTube](https://youtube.com/@dashaun)
+- [Twitter](https://twitter.com/dashaun)
+- [Github](https://github.com/dashaun)
+- [GitLab](https://gitlab.com/dashaun)
+- [LinkedIn](https://linkedin.com/in/dashaun/)
 
 ---
 
