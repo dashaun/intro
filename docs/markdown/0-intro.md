@@ -13,7 +13,7 @@ Notes:
 
 ---
 
-- @dashaun on (Twitter|GitHub|GitLab|LinkedIn)
+- @dashaun on (YouTube|Twitter|GitHub|GitLab|LinkedIn)
 
 ---
 
