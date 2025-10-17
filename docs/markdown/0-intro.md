@@ -26,3 +26,7 @@ Notes:
 ![Spring Office Hours](images/spring-office-hours-blank.png)
 
 ### SpringOfficeHours.io
+
+---
+
+![Family Dinner](images/familydinner.jpg)
