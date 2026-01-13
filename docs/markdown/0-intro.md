@@ -23,6 +23,20 @@ Notes:
 
 ---
 
+### @javagrunt on:
+
+- [Twitch](https://twitch.tv/javagrunt)
+- [TikTok](https://tiktok.com/@javagrunt)
+
+---
+
+### @coffeesoftware
+
+- [YouTube](https://youtube.com/@coffeesoftware)
+- [TikTok](https://tiktok.com/@coffeesoftware)
+
+---
+
 ![Spring Office Hours](images/spring-office-hours-blank.png)
 
 ### SpringOfficeHours.io
