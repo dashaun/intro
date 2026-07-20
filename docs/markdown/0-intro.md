@@ -19,12 +19,16 @@ Notes:
 
 ---
 
+![AAIF Ambassador 2026](images/aaif-ambassador-2026.png)
+
+---
+
 [![Pro Spring Boot 4](images/book_cover.jpg)](https://link.springer.com/book/9798868826399)
 ---
 
 ![CoffeeSoftware](images/coffeesoftware_banner.jpg)
 
-### [https://youtube.com/@coffeesoftware](https://youtube.com/@coffeesoftware)
+#### [https://youtube.com/@coffeesoftware](https://youtube.com/@coffeesoftware)
 
 ---
 
