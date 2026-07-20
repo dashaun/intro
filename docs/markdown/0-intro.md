@@ -13,34 +13,27 @@ Notes:
 
 ---
 
-### @dashaun on:
-
-- [YouTube](https://youtube.com/@dashaun)
-- [Twitter](https://twitter.com/dashaun)
-- [Github](https://github.com/dashaun)
-- [GitLab](https://gitlab.com/dashaun)
-- [LinkedIn](https://linkedin.com/in/dashaun/)
-
----
-
-### @javagrunt on:
-
-- [Twitch](https://twitch.tv/javagrunt)
-- [TikTok](https://tiktok.com/@javagrunt)
-
----
-
-### @coffeesoftware
-
-- [YouTube](https://youtube.com/@coffeesoftware)
-- [TikTok](https://tiktok.com/@coffeesoftware)
-
----
-
 ![Spring Office Hours](images/spring-office-hours-blank.png)
 
-### SpringOfficeHours.io
+### [SpringOfficeHours.io](https://springofficehours.io)
 
 ---
 
-![Family Dinner](images/familydinner.jpg)
+[![Pro Spring Boot 4](images/book_cover.jpg)](https://link.springer.com/book/9798868826399)
+---
+
+![CoffeeSoftware](images/coffeesoftware_banner.jpg)
+
+### [https://youtube.com/@coffeesoftware](https://youtube.com/@coffeesoftware)
+
+---
+
+## Now We Are Connected
+
+### [DaShaun.com](https://dashaun.com)
+
+Slides, code, events, and every social link live there.
+
+---
+
+![Family Dinner](images/family.jpg)
