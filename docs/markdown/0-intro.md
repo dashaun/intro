@@ -32,9 +32,9 @@ Notes:
 
 ---
 
-## Now We Are Connected
+#### Now We Are Connected
 
-### [DaShaun.com](https://dashaun.com)
+## [DaShaun.com](https://dashaun.com)
 
 Slides, code, events, and every social link live there.
 
